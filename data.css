@@ -5,6 +5,10 @@ p, h1, h2{
 	text-align: justify;
 }
 
+p{
+	font-size: 16px;
+}
+
 div{
 	margin-top: 25px;
 	margin-bottom: 25px;
